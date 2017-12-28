@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scriptoids\Clock.cs" />
+     <Compile Include="Assets\Scriptoids\Fractal.cs" />
      <Compile Include="Assets\Scriptoids\Graph.cs" />
      <None Include="Assets\Shaders\ColoredPoint.shader" />
  <Reference Include="UnityEngine.UI">
