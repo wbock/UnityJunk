@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/1.1.2 Graph.unity
+- path: Assets/Scenes/1.1.3 Fractoid.unity
   isLoaded: 1
   isActive: 1

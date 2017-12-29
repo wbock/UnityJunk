@@ -54,6 +54,7 @@
      <Compile Include="Assets\Scriptoids\Clock.cs" />
      <Compile Include="Assets\Scriptoids\Fractal.cs" />
      <Compile Include="Assets\Scriptoids\Graph.cs" />
+     <Compile Include="Assets\Scriptoids\Pipe.cs" />
      <None Include="Assets\Shaders\ColoredPoint.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
