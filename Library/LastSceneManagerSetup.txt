@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/1.8.1 Racer.unity
+- path: Assets/Scenes/VuforiaTest.unity
   isLoaded: 1
   isActive: 1
